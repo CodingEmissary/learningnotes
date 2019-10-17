@@ -29,7 +29,9 @@ CREATE TABLE IF NOT EXISTS `time_deposit` (
 ) ENGINE=InnoDB CHARSET=utf8;
 ```
 
-Java code: [|]
+测试代码
+
+[Java code](https://github.com/vmstar/mybatis.git)
 
 ## 事务
 
