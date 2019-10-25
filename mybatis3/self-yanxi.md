@@ -6,8 +6,6 @@
 
 #### 1、Configuration
 
-
-
 ```
 | logImpl
 	-| 日志实现
