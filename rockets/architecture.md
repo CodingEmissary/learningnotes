@@ -6,7 +6,7 @@
 
 # 概览
 
-Apache RocketMQ是一个具有低延迟、高性能和可靠性、万亿级容量和灵活可扩展性的分布式消息和流式平台。它由四部分组成：name server、broker、producer和consumer。它们中的每一个都可以水平扩展，而不会出现单点故障点，如上图所示。
+Apache RocketMQ是一个具有低延迟、高性能和可靠性、万亿级容量和灵活可扩展性的分布式消息和流式(流式数据处理？？)平台。它由四部分组成：name server、broker、producer和consumer。如上图所示，它们中的每一个都可以水平扩展，而不会出现单点故障点。
 
 **NameServer Cluster**
 
