@@ -1,6 +1,8 @@
-#  RocketMQ Architecture
+#  【译】RocketMQ Architecture
 
 ![image-20191106225144768](https://tva1.sinaimg.cn/large/006y8mN6ly1g8opidy0q5j30kx08vdgz.jpg)
+
+> http://rocketmq.apache.org/docs/rmq-arc/
 
 # 概览
 
