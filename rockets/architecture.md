@@ -18,11 +18,11 @@ Broker通过提供轻量级Tpoic和Queue机制来处理消息存储。它们支�
 
 **Producer Cluster**
 
-
+Producer支持分布式部署，分布式生产者通过多种负载平衡模式向broker集群发送消息。Producer支持快速失败和具有低延迟。
 
 **Consumer**
 
-
+Consumer支持Push和Pull模型的分布式部署。它还支持集群消费和消息广播。它提供了实时消息订阅机制，能够满足大多数用户的需求。RocketMQ的网站为感兴趣的用户提供了一个简单的快速入门指南。
 
 # NameServer
 
